@@ -1,0 +1,16 @@
+<p style="color:#7fff00">◉ Chartreuse</p>
+<p style="color:#ff1493">◉ Persian Rose</p>
+<p style="color:#8a2be2">◉ Purple Heart</p>
+<p style="color:#000080">◉ Navy Blue</p>
+<p style="color:#006400">◉ Camarone</p>
+<p style="color:#00ced1">◉ Robin's Egg Blue</p>
+<p style="color:#fff0f5">◉ Lavender blush</p>
+<p style="color:#2e8b57">◉ Sea Green</p>
+<p style="color:#808000">◉ Olive</p>
+<p style="color:#800080">◉ Fresh Eggplant</p>
+<p style="color:#dda0dd">◉ Light Orchid</p>
+<p style="color:#32cd32">◉ Apple</p>
+<p style="color:#45999b">◉ Wedgewood</p>
+<p style="color:#cccaa3">◉ Chino</p>
+<p style="color:#7bb485">◉ Bay Leaf</p>
+<p style="color:#cdeed3">◉ Peppermint</p>
