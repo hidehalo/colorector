@@ -14,3 +14,5 @@
 <p style="color:#cccaa3">◉ Chino</p>
 <p style="color:#7bb485">◉ Bay Leaf</p>
 <p style="color:#cdeed3">◉ Peppermint</p>
+<p style="color:#dbd0c0">◉ Sisal</p>
+<p style="color:#ae9f8a">◉ Hillary</p>

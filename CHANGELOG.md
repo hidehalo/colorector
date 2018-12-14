@@ -20,3 +20,5 @@
 - #cccaa3
 - #7bb485
 - #cdeed3
+- #dbd0c0
+- #ae9f8a
